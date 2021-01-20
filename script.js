@@ -6,4 +6,3 @@ function myFunction () {
   answer = parseInt(answer)
   alert(answer)
 }
-
